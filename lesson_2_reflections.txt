@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Or else it would track your entire computer. Not just the folders you want.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The working directory is where I am still writing code. While staging area is the files that are ready to be commited when saved.
