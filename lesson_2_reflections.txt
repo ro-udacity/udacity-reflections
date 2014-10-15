@@ -3,3 +3,18 @@ Or else it would track your entire computer. Not just the folders you want.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The working directory is where I am still writing code. While staging area is the files that are ready to be commited when saved.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can make commits one at at time even while working on many files.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When fixing bugs or adding new features. Testing. 
+
+How do the diagrams help you visualize the branch structure?
+It lets us see where all the off-shoot branches are and how they related to each other. Especially where did they last share a common ansetor.
+
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ We create a single final file that everyone can work on and we know is stable and works well. It is respersented in a diagram because it easily allows us to view where certain areas left the master.
+
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ When things don't need to be checked you dont need to waste time comparing code.
